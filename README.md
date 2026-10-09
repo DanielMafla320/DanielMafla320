@@ -43,13 +43,13 @@ Me interesa construir productos digitales que combinen funcionalidad, diseño y 
 
 **Desarrollo backend y bases de datos**
 
-<img src="https://skillicons.dev/icons?i=python,java,django,spring,postgres,mongodb&theme=dark" alt="Tecnologías backend y bases de datos" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb&theme=dark" alt="Tecnologías backend y bases de datos" />
 
 <br /><br />
 
 **Herramientas de desarrollo**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Herramientas de desarrollo" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,rabbitmq&theme=dark" alt="Herramientas de desarrollo" />
 
 </div>
 
